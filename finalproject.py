@@ -1,4 +1,4 @@
-#RUN COMMAND = "--search="Kwality Walls Ice Cream Sandwich Chocolate and Vanilla " --key=AIzaSyBxfwXiIAh3iLAzfK6eRcxisKcQEHLrsW0"
+#RUN COMMAND = "--search="Kwality Walls Ice Cream Sandwich Chocolate and Vanilla " --key=API_KEY"
 import json
 import sys
 import argparse
@@ -94,5 +94,5 @@ def main():
 if __name__ == '__main__':
     main()
     
-#--c --videourl=https://www.youtube.com/watch?v=Cr6VqTRO1v0&t=59s --key=AIzaSyBxfwXiIAh3iLAzfK6eRcxisKcQEHLrsW0     #for comments
+#--c --videourl=https://www.youtube.com/watch?v=Cr6VqTRO1v0&t=59s --key=KEY     #for comments
 #
